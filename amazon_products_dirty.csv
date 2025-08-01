@@ -1,0 +1,301 @@
+product_id,product_name,category,unit_cost,unit_price
+P1000,Trouble Lite,Health,40.58,285.71
+P1001, Rich Lite ,Office Supplies,74.54,183.61
+P1002,Without Kit,Sports,19.82,55.24
+P1003,International Max,Office Supplies,10.52,261.19
+P1004,Race Pro,Fashion,,215.34
+P1005,Artist Kit,Fashion,6.96,291.27
+P1006,Set Lite,Books,84.08,71.58
+P1007,Year Kit,Office Supplies,22.27,63.19
+P1008,Company Kit,Fashion,33.9,162.18
+P1009,Treat Max,Books,46.03,94.46
+P1010,Small Pro,Health,63.13,50.45
+P1011,Set Pro,Sports,32.75,116.24
+P1012,Those Max,Home & Kitchen,48.33,237.7
+P1013,Near Max,Electronics,,159.13
+P1014,Leave Lite,Health,61.28,23.47
+P1015, Too Max ,Health,62.72,59.45
+P1016,Magazine Max,Fashion,11.18,285.18
+P1017, Cut Pro ,Fashion,96.74,$244.44 USD
+P1018, Others Set ,Home & Kitchen,33.94,38.32
+P1019,West Kit,Sports,70.0,137.64
+P1020,Beat Lite,Office Supplies,16.59,153.6
+P1021,Will Set,Office Supplies,8.27,273.7
+P1022,Prevent Max,Electronics,29.58,$202.13 USD
+P1023,Debate Kit,Fashion,34.61,160.82
+P1024,Home Set,Health,56.94,63.61
+P1025,What Pro,Fashion,97.11,234.79
+P1026,Human Pro,Electronics,94.25,269.5
+P1027,Traditional Max,Office Supplies,61.8,277.34
+P1028,Dream Lite,Books,13.41,66.84
+P1029,The Kit,Health,9.3,104.35
+P1030,Administration Max,Health,41.92,88.69
+P1031, With Set ,Office Supplies,83.73,113.46
+P1032, Child Lite ,Office Supplies,31.69,167.38
+P1033,President Kit,Fashion,18.39,242.64
+P1034, Leader Lite ,Health,12.08,296.2
+P1035,Just Max,Office Supplies,78.36,67.63
+P1036,Side Kit,Electronics,5.52,246.48
+P1037,May Kit,Electronics,72.15,221.41
+P1038,Why Pro,Health,78.27,31.47
+P1039, High Lite ,Home & Kitchen,39.05,43.6
+P1040, Central Set ,Fashion,86.99,190.76
+P1041,Decision Set,Office Supplies,36.44,28.43
+P1042,Although Set,Fashion,34.54,104.3
+P1043,Among Pro,Health,74.31,194.89
+P1044,Send Lite,Electronics,89.29,146.94
+P1045,Protect Set,Books,16.36,216.84
+P1046,Yet Set,Books,77.27,172.77
+P1047,Teacher Lite,Books,78.24,153.2
+P1048,Body Max,Home & Kitchen,54.66,133.99
+P1049,Money Pro,Sports,7.41,$41.29 USD
+P1050,Region Max,Sports,7.99,194.56
+P1051,Expert Pro,Home & Kitchen,34.86,157.49
+P1052,Stay Pro,Electronics,91.22,82.29
+P1053,Matter Kit,Office Supplies,43.99,229.11
+P1054,Firm Max,Sports,26.74,32.32
+P1055,Lawyer Pro,Fashion,32.53,56.75
+P1056,List Kit,Home & Kitchen,93.32,244.35
+P1057,Speak Pro,Fashion,65.17,262.72
+P1058,Fall Lite,Fashion,81.35,64.11
+P1059,Piece Lite,Health,89.79,166.41
+P1060,Majority Set,Office Supplies,81.71,269.87
+P1061,Change Max,Books,35.21,41.92
+P1062,Fact Kit,Home & Kitchen,26.65,133.86
+P1063,Way Set,Fashion,82.71,259.61
+P1064, Movement Lite ,Sports,5.66,158.12
+P1065,Control Lite,Health,44.65,74.41
+P1066,Paper Max,Health,16.39,107.91
+P1067,Certain Lite,Fashion,94.58,$103.73 USD
+P1068,Fund Lite,Home & Kitchen,54.29,213.88
+P1069,Performance Max,Office Supplies,39.54,291.82
+P1070,Left Max,Electronics,96.43,83.02
+P1071, Tax Pro ,Fashion,52.24,$97.25 USD
+P1072,Staff Kit,Books,32.06,20.7
+P1073,World Kit,Books,62.91,155.78
+P1074, Something Lite ,Electronics,9.89,90.81
+P1075,My Max,Books,91.29,79.47
+P1076,Discover Set,Sports,18.77,151.94
+P1077,Participant Set,Sports,98.64,80.2
+P1078, Lead Max ,Office Supplies,68.85,$230.87 USD
+P1079,Evening Lite,Office Supplies,27.58,221.18
+P1080,Effect Pro,Sports,39.94,193.37
+P1081,Base Lite,Home & Kitchen,65.19,165.37
+P1082,While Pro,Sports,13.58,252.24
+P1083,Certainly Lite,Health,35.47,$64.09 USD
+P1084,Almost Pro,Health,8.87,181.36
+P1085,I Set,Health,69.37,$14.81 USD
+P1086,Commercial Set,Books,53.65,$75.68 USD
+P1087,Service Max,Electronics,66.29,$60.57 USD
+P1088, Feel Kit ,Books,70.64,122.15
+P1089,Such Pro,Electronics,93.99,49.88
+P1090,Thank Lite,Books,37.4,$42.91 USD
+P1091,Left Max,Home & Kitchen,92.85,264.43
+P1092,Everyone Pro,Home & Kitchen,29.5,201.4
+P1093,Whatever Kit,Books,82.64,171.01
+P1094,Seven Kit,Sports,55.32,80.14
+P1095,Newspaper Lite,Office Supplies,13.84,270.19
+P1096,Physical Pro,Books,90.54,193.6
+P1097,Popular Max,Office Supplies,37.21,111.27
+P1098,Total Lite,Health,73.97,270.16
+P1099,Page Lite,Office Supplies,89.27,236.16
+P1100, Reflect Set ,Fashion,65.99,34.4
+P1101,Be Set,Home & Kitchen,20.35,270.58
+P1102,Member Pro,Office Supplies,62.61,12.67
+P1103,Gas Max,Office Supplies,14.64,202.42
+P1104,Though Kit,Books,5.48,$56.63 USD
+P1105,Water Set,Office Supplies,57.13,210.65
+P1106,Drive Max,Electronics,66.94,75.04
+P1107, Mouth Lite ,Sports,72.66,78.8
+P1108,Eat Set,Fashion,35.91,226.48
+P1109,Care Lite,Health,66.72,$256.27 USD
+P1110,Role Lite,Sports,67.47,174.81
+P1111,World Max,Office Supplies,13.9,116.64
+P1112,Five Lite,Electronics,30.19,80.76
+P1113,Oil Pro,Fashion,97.44,124.0
+P1114,Tonight Set,Sports,89.74,193.03
+P1115,Seven Kit,Books,80.51,155.76
+P1116,Interesting Kit,Home & Kitchen,59.81,152.83
+P1117,Free Set,Health,23.55,219.51
+P1118,Administration Max,Health,31.67,$17.05 USD
+P1119,Even Lite,Health,66.32,61.36
+P1120,Hair Max,Electronics,94.34,286.64
+P1121,With Pro,Electronics,91.91,117.35
+P1122,Lot Set,Books,6.47,279.21
+P1123,Treatment Max,Electronics,45.68,290.33
+P1124,Expert Set,Home & Kitchen,96.54,257.37
+P1125,Top Kit,Home & Kitchen,32.97,121.68
+P1126,Realize Max,Fashion,85.86,101.91
+P1127,Close Lite,Health,21.1,171.47
+P1128,Pay Kit,Fashion,93.93,211.85
+P1129,Southern Kit,Health,59.16,38.18
+P1130,Still Pro,Fashion,63.43,297.12
+P1131,Mouth Set,Office Supplies,18.31,160.32
+P1132,Prove Max,Sports,88.35,224.82
+P1133,Term Max,Books,71.22,213.72
+P1134,Democratic Set,Health,39.15,95.14
+P1135,About Lite,Home & Kitchen,81.89,244.93
+P1136,Wall Max,Fashion,87.37,274.84
+P1137,Charge Pro,Office Supplies,53.58,155.44
+P1138,Include Lite,Electronics,80.84,198.49
+P1139,Home Lite,Sports,71.69,$240.78 USD
+P1140,Become Lite,Electronics,89.55,108.02
+P1141,Building Max,Books,,37.25
+P1142, Card Pro ,Electronics,59.94,$20.42 USD
+P1143,Short Max,Electronics,49.23,167.37
+P1144,Once Pro,Health,32.22,181.34
+P1145,Fear Kit,Electronics,7.9,20.83
+P1146,Law Set,Office Supplies,83.15,114.46
+P1147,Identify Lite,Home & Kitchen,17.07,161.45
+P1148,Respond Pro,Office Supplies,78.15,72.59
+P1149,New Kit,Home & Kitchen,64.17,34.75
+P1150,Letter Set,Office Supplies,9.91,164.09
+P1151,Nation Kit,Home & Kitchen,56.36,194.85
+P1152,Wish Kit,Home & Kitchen,73.98,$293.0 USD
+P1153,Success Pro,Books,54.05,103.66
+P1154,Certain Pro,Office Supplies,80.54,88.54
+P1155,Relate Kit,Electronics,46.7,32.75
+P1156,Perhaps Lite,Office Supplies,7.41,289.17
+P1157,Land Pro,Home & Kitchen,84.42,211.83
+P1158,Learn Kit,Books,43.85,60.26
+P1159,Full Pro,Electronics,19.86,82.57
+P1160,Determine Set,Home & Kitchen,57.18,217.23
+P1161, Result Set ,Books,67.72,91.18
+P1162,Mean Pro,Sports,95.71,223.99
+P1163,That Lite,Electronics,57.66,187.4
+P1164,West Pro,Books,44.86,81.84
+P1165,Visit Set,Home & Kitchen,38.82,229.78
+P1166,Carry Max,Sports,6.37,43.66
+P1167,Account Set,Health,9.37,21.81
+P1168,Item Set,Fashion,86.27,214.06
+P1169,Blood Max,Office Supplies,50.05,38.37
+P1170,Prepare Lite,Sports,51.7,147.31
+P1171,Determine Kit,Electronics,21.45,135.82
+P1172,Cell Max,Sports,42.86,188.6
+P1173,What Pro,Sports,65.33,23.14
+P1174,That Set,Health,40.59,191.5
+P1175,Range Kit,Books,52.8,258.38
+P1176,Range Max,Health,67.58,57.25
+P1177,Rate Set,Electronics,11.7,196.3
+P1178,News Max,Office Supplies,-10.0,179.87
+P1179,Mission Max,Fashion,94.32,$176.89 USD
+P1180,Town Set,Fashion,41.88,196.55
+P1181,Under Max,Electronics,48.53,168.23
+P1182,Rate Set,Books,94.44,121.97
+P1183, But Kit ,Home & Kitchen,96.31,272.55
+P1184,Million Set,Home & Kitchen,23.6,30.11
+P1185,Rock Lite,Sports,14.57,$15.28 USD
+P1186,While Kit,Sports,13.97,$208.07 USD
+P1187,Lawyer Lite,Fashion,11.76,102.5
+P1188,Part Kit,Sports,85.26,16.75
+P1189,Base Lite,Fashion,82.37,91.74
+P1190,Music Kit,Sports,16.23,$212.05 USD
+P1191,Main Max,Electronics,64.75,264.47
+P1192,Economic Set,Office Supplies,74.83,243.01
+P1193,Alone Kit,Health,31.79,$61.46 USD
+P1194,Age Pro,Fashion,76.31,243.98
+P1195,Cold Max,Home & Kitchen,99.1,129.66
+P1196,Executive Max,Books,40.34,235.16
+P1197,Past Max,Fashion,37.38,279.92
+P1198,Decide Max,Health,86.55,134.41
+P1199,Instead Set,Books,76.33,228.82
+P1200,Executive Max,Books,14.8,271.74
+P1201,A Lite,Books,53.0,249.67
+P1202,Affect Pro,Health,35.4,269.7
+P1203,Skin Max,Electronics,41.97,13.14
+P1204,Exactly Set,Office Supplies,91.01,36.47
+P1205, Wait Set ,Electronics,35.33,285.52
+P1206,Successful Max,Electronics,95.31,176.3
+P1207, Financial Lite ,Office Supplies,65.02,140.05
+P1208,It Pro,Sports,32.86,105.31
+P1209,Society Set,Sports,68.89,228.19
+P1210,Crime Kit,Sports,80.2,$238.99 USD
+P1211,Middle Lite,Health,13.66,153.38
+P1212,Speech Set,Fashion,10.47,169.36
+P1213,Full Lite,Office Supplies,46.95,267.43
+P1214,Suddenly Max,Office Supplies,38.34,$43.95 USD
+P1215,Long Set,Books,18.58,230.84
+P1216,Decide Kit,Books,-10.0,$39.33 USD
+P1217, Into Lite ,Electronics,12.99,213.28
+P1218,Unit Kit,Sports,11.91,248.34
+P1219,Know Pro,Home & Kitchen,72.09,33.59
+P1220,Enter Max,Home & Kitchen,13.06,296.13
+P1221,Business Set,Books,40.56,117.49
+P1222,Fight Kit,Books,82.22,284.7
+P1223,Economy Set,Office Supplies,98.67,228.48
+P1224,Him Lite,Sports,40.74,34.22
+P1225, Few Pro ,Office Supplies,78.83,171.94
+P1226,Dream Max,Office Supplies,45.3,272.84
+P1227,Ahead Kit,Office Supplies,15.56,152.86
+P1228,Sister Kit,Sports,6.08,$145.91 USD
+P1229, Public Kit ,Electronics,10.35,44.46
+P1230,World Kit,Health,16.16,198.27
+P1231,Evening Lite,Electronics,,179.18
+P1232,Join Pro,Books,96.41,118.71
+P1233,Pm Lite,Books,32.14,261.89
+P1234,One Lite,Electronics,26.24,289.33
+P1235,Ground Pro,Office Supplies,6.15,291.26
+P1236, Take Pro ,Sports,9.1,268.43
+P1237,Become Max,Electronics,55.13,297.96
+P1238,Special Pro,Health,12.01,170.62
+P1239,Hair Set,Electronics,97.08,$161.7 USD
+P1240, Similar Kit ,Home & Kitchen,64.79,211.77
+P1241,Movement Max,Fashion,48.18,191.99
+P1242,East Max,Books,60.51,271.34
+P1243, Sort Pro ,Books,9.32,91.48
+P1244,Federal Lite,Health,95.29,268.18
+P1245,Note Lite,Office Supplies,48.29,$189.84 USD
+P1246, Design Kit ,Sports,31.35,64.56
+P1247,Perform Set,Electronics,49.05,112.47
+P1248,Arrive Pro,Home & Kitchen,60.45,32.54
+P1249,Order Kit,Electronics,97.57,296.0
+P1250,List Set,Books,71.33,165.47
+P1251, Prove Max ,Health,34.41,246.0
+P1252,Ask Max,Fashion,70.05,57.16
+P1253,Certainly Kit,Fashion,91.54,248.54
+P1254,Camera Max,Books,95.23,220.46
+P1255,Prove Pro,Office Supplies,63.27,131.29
+P1256,Full Kit,Electronics,93.61,261.16
+P1257,Ok Lite,Fashion,9.3,17.65
+P1258,Inside Set,Books,40.76,245.06
+P1259,Democrat Kit,Fashion,98.79,53.62
+P1260,Skill Kit,Health,61.44,120.46
+P1261,While Lite,Electronics,,254.21
+P1262,Top Pro,Fashion,84.64,145.92
+P1263,Tell Kit,Electronics,44.41,89.29
+P1264,Five Set,Home & Kitchen,10.36,260.77
+P1265,Exactly Lite,Home & Kitchen,82.23,299.92
+P1266,Care Pro,Office Supplies,99.68,171.08
+P1267,Around Lite,Books,78.05,283.98
+P1268,Early Lite,Electronics,85.72,$81.73 USD
+P1269,Likely Set,Fashion,47.8,47.46
+P1270,Color Max,Home & Kitchen,95.63,185.79
+P1271,Weight Pro,Fashion,26.72,204.79
+P1272,Industry Kit,Health,63.72,113.87
+P1273,Series Pro,Sports,15.79,$204.76 USD
+P1274,Book Kit,Office Supplies,54.43,233.97
+P1275,Region Lite,Electronics,54.42,257.13
+P1276,Instead Max,Office Supplies,57.43,172.67
+P1277,Enough Set,Fashion,88.28,127.01
+P1278,Store Set,Fashion,17.73,18.35
+P1279,Hard Set,Office Supplies,76.74,189.89
+P1280,High Lite,Sports,71.89,71.76
+P1281,Attorney Max,Sports,17.96,14.22
+P1282,Rest Max,Health,38.31,181.08
+P1283,Fall Max,Books,42.26,136.87
+P1284,Campaign Set,Fashion,90.9,110.99
+P1285,Memory Set,Books,53.83,237.26
+P1286,Together Pro,Office Supplies,42.67,190.41
+P1287,Off Kit,Fashion,86.92,285.36
+P1288,Task Lite,Electronics,18.97,278.71
+P1289,Director Max,Office Supplies,51.75,84.89
+P1290,When Set,Home & Kitchen,48.62,294.21
+P1291,Purpose Max,Sports,51.8,105.34
+P1292,Process Max,Sports,65.17,79.64
+P1293,Ground Set,Fashion,12.21,47.38
+P1294,By Lite,Health,17.16,54.05
+P1295,Tough Lite,Home & Kitchen,18.19,195.85
+P1296,Upon Lite,Office Supplies,22.28,110.24
+P1297,Black Pro,Electronics,90.19,147.45
+P1298,Rock Kit,Health,-10.0,59.97
+P1299,Buy Set,Sports,23.27,21.85
