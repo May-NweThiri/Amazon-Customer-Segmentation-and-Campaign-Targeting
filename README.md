@@ -32,7 +32,7 @@ This repository contains the following files:
 * `dataCleaning_amazon.ipynb`: A Jupyter Notebook containing all the code for the data cleaning process.
 * `dataAnalysis_amazon.ipynb`: (To be added) A Jupyter Notebook for the data analysis and insight-finding phase.
 * `README.md`: This file, providing an overview of the project.
-* `data files /`: This directory is where the raw and cleaned datasets are stored.
+* `data files /`: These are raw datasets. 
 
 
 
